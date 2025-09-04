@@ -1,0 +1,22 @@
+# 🛡️ CEH Portfolio — Christos Tatselos
+
+This repository contains labs, notes, and exercises from my preparation for the **Certified Ethical Hacker (CEH v12)** exam.  
+
+## 📂 Structure
+- Module 01 → Introduction to Ethical Hacking
+- Module 02 → Footprinting and Reconnaissance
+- Module 03 → Scanning Networks
+- Module 04 → Enumeration
+- Module 05 → Vulnerability Analysis
+- Module 06 → System Hacking
+- ...
+- Module 20 → Cryptography
+
+## 🧪 Lab Format
+**Title:** Module name / attack technique  
+**Goal:** What I want to achieve  
+**Steps:** Commands / screenshots / notes  
+**Takeaways:** 3–5 bullet points
+
+## 🎯 Goal
+Build a complete set of **CEH notes and labs** to prepare for the certification exam.
