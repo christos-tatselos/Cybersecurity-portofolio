@@ -1,0 +1,17 @@
+# 📘 CompTIA Security+ Portfolio — Christos Tatselos
+
+This section contains notes and labs from my **CompTIA Security+** preparation.
+
+## 📂 Topics Covered
+- Security Basics (ports, firewalls, VPN)
+- Cryptography & Hashing (AES, RSA, PKI, SSL/TLS)
+- Access Control & AAA
+- Attacks & Threats (Phishing, DoS, MITM)
+- Network Security
+- Identity & Access Management
+- Risk Management
+- Incident Response
+
+## 🎯 Goal
+Build a strong foundation in cybersecurity concepts to prepare for the **Security+ exam** and support advanced certifications like CEH and CISSP.
+
