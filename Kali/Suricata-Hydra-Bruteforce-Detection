@@ -1,0 +1,25 @@
+# Suricata + Hydra Brute Force Detection Lab
+
+This lab demonstrates how to detect a brute force attack using **Suricata IDS** and **Hydra** on a local web server.
+
+## 🔧 Lab Setup
+- **OS:** Kali Linux
+- **Tools:** Hydra, Suricata, Apache2
+- **Target:** 127.0.0.1 (local web login)
+
+## 🧪 Steps Performed
+1. Created a custom password wordlist (`passwords.txt`)
+2. Ran Hydra brute force attack on `/login.php`
+3. Wrote a custom Suricata rule in `local.rules`
+4. Started Suricata to monitor `lo` interface
+5. Captured the alert in `/var/log/suricata/fast.log`
+
+## 📸 Evidence
+- Hydra attack results (valid passwords found)
+- Suricata engine running
+- Suricata alert log (`Hydra HTTP brute force attempt detected`)
+
+## 🎯 Goal
+Showcase how SOC analysts can write detection rules for brute force attacks and verify them with real traffic.
+
+---
